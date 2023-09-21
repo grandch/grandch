@@ -1,3 +1,3 @@
 ### Charlie Grand
 
-![banner](github banner.png)
+![banner](githubbanner.png)
